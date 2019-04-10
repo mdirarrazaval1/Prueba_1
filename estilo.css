@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+body {
+  font-family: 'Karla', sans-serif;
+}
+.jumbotron{
+  background: linear-gradient(to bottom, rgba(200, 200, 200, 0.2) 0%, rgba(200, 200, 200, 1) 100%),
+  url("https://st2.depositphotos.com/1037160/11564/i/950/depositphotos_115649422-stock-photo-shibori-seamless-tie-dye-pattern.jpg");
+
+}
